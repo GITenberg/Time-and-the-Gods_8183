@@ -1,5 +1,8 @@
 _repo: Time-and-the-Gods_8183
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dunsany, Lord
@@ -27,6 +30,8 @@ description: "Time and the Gods is the second book by Irish fantasy writer Lord 
   \ and not in most modern reproductions.\nThe title is thought to have been influenced\
   \ by Algernon Swinburne, who wrote the line \"Time and the Gods are at strife\"\
   \ in his 1866 poem “Hymn to Proserpine.”\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8183#Time-and-the-Gods
 gutenberg_bookshelf: Fantasy
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
